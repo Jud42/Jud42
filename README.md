@@ -30,6 +30,9 @@
 <a href="https://www.linkedin.com/in/judio-raphaël-mamison-40798914a/">
     ![Linkedin: Judio Raphaël](https://img.shields.io/badge/-Judio_raphaël-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
+<a href="https://github.com/Jud42">
+    ![GitHub: Jud42](https://img.shields.io/github/followers/Jud42?label=follow&style=social)
+</a>
 
 
 <!--
