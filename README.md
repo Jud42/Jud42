@@ -6,7 +6,7 @@
   |      and I am currently learning the programming languages C/C++.         | 
   |   👀 I am highly passionate about the field of software development       |
   |     and have a particular interest in open source technology,           |
-  |     Linux operating system, data management, and DevOps practices.        |
+  |     Linux operating system, DevOps practices.                            |
   |   🤔 On my GitHub profile, you'll find mostly school projects from 42       |
   |     but I'm always on the lookout for new challenges to improves my skills.  |
   |   👯 Thanks for stopping by, feel free to contact me if you have any questions |
